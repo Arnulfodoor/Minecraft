@@ -34,14 +34,23 @@ cd block-builder-demo
 
 🕹 Controles
 Tecla / Botón	Acción
-W	Mover hacia adelante
-S	Mover hacia atrás
-A	Mover a la izquierda
-D	Mover a la derecha
-Mouse	Mirar alrededor
-Click izquierdo	Romper bloque
-Click derecho	Colocar bloque
-Escape	Pausar / Reanudar juego
+
+W	Mover hacia adelante.
+
+S	Mover hacia atrás.
+
+A	Mover a la izquierda.
+
+D	Mover a la derecha.
+
+Mouse	Mirar alrededor.
+
+Click izquierdo	Romper bloque.
+
+Click derecho	Colocar bloque.
+
+Escape	Pausar / Reanudar juego.
+
 ⚙️ Configuración
 self.speed → velocidad de movimiento
 
