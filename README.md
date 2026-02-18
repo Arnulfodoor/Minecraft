@@ -29,6 +29,8 @@ Clonar el repositorio:
 ```bash
 git clone https://github.com/arnulfodoor/minecraft.git
 cd block-builder-demo
+```bash
+
 
 🕹 Controles
 Tecla / Botón	Acción
